@@ -1,0 +1,22 @@
+{
+  "name": "dog-things-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitovi/dog-things-api.git"
+  },
+  "author": "Bitovi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitovi/dog-things-api/issues"
+  },
+  "homepage": "https://github.com/bitovi/dog-things-api#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
