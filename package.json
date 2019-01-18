@@ -17,6 +17,9 @@
     "url": "https://github.com/bitovi/dog-things-api/issues"
   },
   "homepage": "https://github.com/bitovi/dog-things-api#readme",
-  "dependencies": {},
+  "dependencies": {
+    "greenlock": "^2.6.7",
+    "redirect-https": "^1.3.0"
+  },
   "devDependencies": {}
 }
